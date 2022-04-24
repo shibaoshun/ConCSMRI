@@ -1,1 +1,1 @@
-# ConCSMRI
+This is the supplementary material which presents detail proofs of the Lemma 1 and bounded property of the BM3D denoiser in our paper entitled ‘Provable bounded denoisers for constrained compressed sensing magnetic resonance imaging’.
